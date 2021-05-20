@@ -1,1 +1,2 @@
-David Flores
+#David Flores
+#Ingeniero en computación
